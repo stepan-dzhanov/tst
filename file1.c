@@ -9,7 +9,7 @@ char f =0; //2 feature commit
 char b = 0; //feature branch
 
 
-char e =0; //new feature commit
+char e =2; //new feature commit
 
 
 
